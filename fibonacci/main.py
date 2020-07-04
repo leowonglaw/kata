@@ -1,4 +1,4 @@
-def fibonacci(qt: int):
+def fibonacci_sequence(qt: int):
     fibo = []
     fibo.append(1)
     last_fib = 2
