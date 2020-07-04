@@ -1,5 +1,3 @@
-import math
-
 def is_palindromic(number: int):
     reverse_number = 0
     numeral = number
