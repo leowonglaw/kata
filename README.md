@@ -1,2 +1,3 @@
-# tdd
-Learning TDD by practice
+# Kata
+Practice
+
